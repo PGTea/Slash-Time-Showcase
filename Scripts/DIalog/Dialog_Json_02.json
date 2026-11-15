@@ -1,0 +1,35 @@
+{
+  "sceneId": "Checkpoint_2",
+  "dialogues": [
+    {
+      "id": 1,
+      "speakerName": "Director",
+      "text": "Alright. This time, you'll be facing more professional opponents.",
+      "activeSide": false
+    },
+    {
+      "id": 2,
+      "speakerName": "Director",
+      "text": "I want to see how you perform when the action gets heavier.",
+      "activeSide": false
+    },
+    {
+      "id": 3,
+      "speakerName": "Director",
+      "text": "Press <sprite name=\"lt\"> for SLOW MOTION. Press <sprite name=\"rt\"> to DASH through danger. Hit attack <sprite name=\"ps\"> at the right time to DEFLECT bullets back to the enemy!",
+      "activeSide": false
+    },
+    {
+      "id": 4,
+      "speakerName": "Director",
+      "text": "Show me how you handle this shot.",
+      "activeSide": false
+    },
+    {
+      "id": 5,
+      "speakerName": "Player",
+      "text": "Fine. Roll camera.",
+      "activeSide": true
+    }
+  ]
+}

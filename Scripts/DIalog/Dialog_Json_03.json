@@ -1,0 +1,29 @@
+{
+  "sceneId": "Checkpoint_3",
+  "dialogues": [
+    {
+      "id": 1,
+      "speakerName": "Director",
+      "text": "Cut! Not bad. Looks like you've mastered slow motion and dashing.",
+      "activeSide": false
+    },
+    {
+      "id": 2,
+      "speakerName": "Director",
+      "text": "Now you're facing more enemies.",
+      "activeSide": false
+    },
+    {
+      "id": 3,
+      "speakerName": "Director",
+      "text": "Use the throwable props (Press <sprite name=\"po\"> to pickup and throw) on the crates wisely.",
+      "activeSide": false
+    },
+    {
+      "id": 4,
+      "speakerName": "Director",
+      "text": "Action!",
+      "activeSide": false
+    }
+  ]
+}

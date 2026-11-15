@@ -1,0 +1,59 @@
+{
+  "sceneId": "Audition_Intro",
+  "dialogues": [
+    {
+      "id": 1,
+      "speakerName": "Player",
+      "text": "I received a letter from a young director for a new action film. It was a rare opportunity, I'd like to give it a shot.",
+      "activeSide": true
+    },
+    {
+      "id": 2,
+      "speakerName": "Director",
+      "text": "Good. You're here. This is not a normal audition.",
+      "activeSide": false
+    },
+    {
+      "id": 3,
+      "speakerName": "Player",
+      "text": "I noticed. Normal auditions don't hand you a katana.",
+      "activeSide": true
+    },
+    {
+      "id": 4,
+      "speakerName": "Director",
+      "text": "I'm making an action film. A mysterious student, a blade, and a gang that picked the wrong enemy.",
+      "activeSide": false
+    },
+    {
+      "id": 5,
+      "speakerName": "Player",
+      "text": "Sounds like you've been watching too much John Wick and Kill Bill.",
+      "activeSide": true
+    },
+    {
+      "id": 6,
+      "speakerName": "Director",
+      "text": "I'm a big fan. Now I need to see if you can carry that role.",
+      "activeSide": false
+    },
+    {
+      "id": 7,
+      "speakerName": "Player",
+      "text": "So this is the test.",
+      "activeSide": true
+    },
+    {
+      "id": 8,
+      "speakerName": "Director",
+      "text": "Swing! Strike! Slash!(Use <sprite name=\"ps\"> to attack) Finish that dummy!",
+      "activeSide": false
+    },
+    {
+      "id": 9,
+      "speakerName": "Player",
+      "text": "Fine. Let's make it quick.",
+      "activeSide": true
+    }
+  ]
+}

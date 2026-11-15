@@ -1,0 +1,23 @@
+{
+  "sceneId": "Dialog_Test",
+  "dialogues": [
+    {
+      "id": 1,
+      "speakerName": "AAA",
+      "text": "1 This is a testing dialog",
+      "activeSide": false 
+    },
+    {
+      "id": 2,
+      "speakerName": "BBB",
+      "text": "2 This is a testing dialog",
+      "activeSide": true
+    },
+    {
+      "id": 3,
+      "speakerName": "AAA",
+      "text": "3 This is a testing dialog",
+      "activeSide": false
+    }
+  ]
+}
